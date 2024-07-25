@@ -13,7 +13,7 @@
 4. then it'll show you a bot token in "OAuth & Permissions"
 5. then copy that token and paste it in the .env file
 
-- Note on Environment Variables:
+## Note on Environment Variables:
 The script requires a SLACK_TOKEN to be set in a .env file. For security reasons, I haven't included my personal .env file. Instead, users should create their own .env file in the project root with the following structure:
 
 SLACK_TOKEN=xoxb-your-slack-bot-token-here
